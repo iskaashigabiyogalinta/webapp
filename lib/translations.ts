@@ -1,0 +1,90 @@
+export const translations = {
+  nav: {
+    home: 'Guriga',
+    about: 'Ku saabsan',
+    neighborhoods: 'Guddiyada',
+    howItWorks: 'Sida ay u Shaqeyso',
+    contact: 'Xidhiidh',
+    login: 'Gal',
+  },
+  hero: {
+    title: 'Nidaamka Maamulka Qaaraanka Biyogalinta',
+    subtitle: 'Xakamaynta iyo maamulka qaaraanka xaafadaha Hargeysa loogu talagalay mashruuca biyaha ee xaafadaha oo wada shaqeynka Wakaaladda Biyaha Hargeysa',
+    cta: 'Faahfaahin dheeraad ah',
+    login: 'Gal',
+  },
+  about: {
+    title: 'Ku Saabsan Nidaamka',
+    description: 'Iskaashiga Biyogalinta Hargeysa (iskaashigabiyogalintahargeysa.com) waa platformka digitalka ah oo guddiyada xaafadaha Hargeysa u oggolaanaya inay xakameeyaan oo maamulaan qaaraanka xaafadaha loogu talagalay mashruuca biyaha ee xaafadaha. Nidaamkan wuxuu fududeynaa xakamaynta cad iyo wada shaqeynka Wakaaladda Biyaha Hargeysa.',
+    mission: 'Ujeedkayaga',
+    missionText: 'Inaan guddiyada xaafadaha Hargeysa siinno nidaam cad oo habaysan oo loogu talagalay xakamaynta qaaraanka xaafadaha ee bulshada xaafadaha, si loo hubiyo mas\'uuliyadda iyo taageerada horumarinta mashruuca biyaha ee xaafadaha Hargeysa.',
+    goals: 'Sifooyinka Nidaamka',
+    goalsList: [
+      'Gelitaan ammaan ah oo guddiyada xaafadaha',
+      'Xakamaynta iyo xakamaynta qaaraanka xaafadaha ee shakhsi ahaaneed',
+      'Soo saarida warbixinnada iyo koobidda lacagaha iskaashiga xaafadaha',
+      'Wada shaqeynka cad oo Wakaaladda Biyaha',
+    ],
+    benefits: 'Faaiidada Guddiyada Xaafadaha',
+    benefitsList: [
+      'Xakamaynta digitalka ah ee dhammaan qaaraanka xaafadaha',
+      'Xakamaynta fudud ee taariikhda lacagaha iskaashiga xaafadaha',
+      'Maamulka maaliyadeed ee cad',
+      'Iskaashiga habaysan oo Wakaaladda Biyaha',
+    ],
+  },
+  neighborhoods: {
+    title: 'Guddiyada Xaafadaha Hargeysa Ka Qaybgalaya',
+    description: 'Guddiyada xaafadaha Hargeysa ayaa nidaamkan u isticmaalaa si ay u xakameeyaan oo u maamulaan qaaraanka xaafadaha ee bulshada xaafadaha loogu talagalay mashruuca biyaha ee xaafadaha.',
+    impact: 'Faaiidada Nidaamka',
+    impactText: 'Guddiyadu waxay si habaysan u xakameeyaan qaaraan kasta oo xaafadda ka yimid, waxay ilaaliyaan xakamaynta saxda ah ee lacagaha iskaashiga xaafadaha, waxayna si cad ula shaqeeyaan Wakaaladda Biyaha si loo maalgeliyo oo loo fuliyo horumarinta mashruuca biyaha ee xaafadaha.',
+    loginPrompt: 'Ma xubnaha guddiga xaafadda baa tahay?',
+    loginButton: 'Gali Akoonkaaga',
+  },
+  waterAgency: {
+    title: 'Wakaaladda Biyaha Hargeysa',
+    subtitle: 'Wakaaladda Biyaha Hargeysa',
+    description: 'Wakaaladda Biyaha Hargeysa waa hay\'ad rasmi ah oo mas\'uulka u ah bixinta iyo maamulka biyaha Hargeysa. Iskaashigan ayaa wakaaladda u ogolaatay inay si toos ah ula shaqeyso xaafadaha Hargeysa si ay u fahmaan baahiyaha iyo horumarinta adeegga.',
+    role: 'Doorkooda',
+    roleText: 'Wakaaladda Biyaha waxay bixisaa khibradda farsamada, taageerada dhismaha, iyo iskaashiga xaafadaha Hargeysa si loo hubiyo xalalka biyaha joogto ah.',
+  },
+  howItWorks: {
+    title: 'Sida ay u Shaqeyso',
+    description: 'Guddiyada xaafadaha Hargeysa waxay nidaamkan u isticmaali karaan xakamaynta qaaraanka xaafadaha hab fudud:',
+    steps: [
+      {
+        number: '1',
+        title: 'Gelitaanka Guddiga Xaafadda',
+        description: 'Guddiga xaafadda kasta wuxuu leeyahay gelitaan ammaan ah oo ay ku galaan nidaamka iyagoo isticmaalaya xogta gelitaankooda.',
+      },
+      {
+        number: '2',
+        title: 'Xakamaynta Qaaraanka Xaafadaha',
+        description: 'Guddiyadu waxay xakameeyaan qaaraan kasta oo xaafadda ka yimid oo ay bixiyaan dadka xaafadda, oo ay ku jiraan qadarka, taariikhda, iyo faahfaahinta qaaraanka bixiyaha.',
+      },
+      {
+        number: '3',
+        title: 'Xakamaynta Lacagaha',
+        description: 'Eeg taariikhda qaaraanka xaafadaha, xakamaynta wadarta lacagaha iskaashiga xaafadaha, iyo soo saarida warbixinnada si loo xakameeyo horumarka mashruuca biyaha ee xaafadaha.',
+      },
+      {
+        number: '4',
+        title: 'Iskaashiga Wakaaladda',
+        description: 'Nidaamku wuxuu fududeynaa wada xiriirada cad iyo iskaashiga Wakaaladda Biyaha Hargeysa maalgelinta iyo fulinta mashruuca biyaha ee xaafadaha.',
+      },
+    ],
+  },
+  contact: {
+    title: 'Nala Soo Xidhiidh',
+    description: 'Nala soo xidhiidh si aad u hesho macluumaad dheeraad ah oo ku saabsan nidaamka ama si aad uga qaybgasho.',
+    agency: 'Iskaashiga Biyogalinta Hargeysa',
+    website: 'Website',
+    email: 'Iimaylka',
+    phone: 'Telefoonka',
+    address: 'Cinwaanka',
+  },
+  footer: {
+    copyright: '© 2026 Iskaashiga Biyogalinta Hargeysa. Xuquuqda oo dhan waa la ilaaliyay.',
+    website: 'iskaashigabiyogalintahargeysa.com',
+  },
+} as const;
