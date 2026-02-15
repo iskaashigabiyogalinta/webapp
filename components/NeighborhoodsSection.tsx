@@ -1,4 +1,5 @@
 import { translations } from '@/lib/translations'
+import Link from 'next/link'
 
 export default function NeighborhoodsSection() {
   const t = translations
@@ -28,12 +29,12 @@ export default function NeighborhoodsSection() {
               {t.neighborhoods.loginPrompt}
             </h3>
             <div className="text-center">
-              <a
+              <Link
                 href="/login"
                 className="inline-block px-8 py-4 bg-primary-600 text-white rounded-lg font-semibold text-lg hover:bg-primary-700 transition-colors shadow-lg"
               >
                 {t.neighborhoods.loginButton}
-              </a>
+              </Link>
             </div>
           </div>
         </div>

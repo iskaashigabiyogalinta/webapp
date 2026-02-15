@@ -1,4 +1,5 @@
 import { translations } from '@/lib/translations'
+import Link from 'next/link'
 
 export default function Hero() {
   const t = translations
@@ -21,12 +22,12 @@ export default function Hero() {
             >
               {t.hero.cta}
             </a>
-            <a
+            <Link
               href="/login"
               className="inline-block px-8 py-4 bg-secondary-600 text-white rounded-lg font-semibold text-lg hover:bg-secondary-700 transition-colors shadow-lg text-center"
             >
               {t.hero.login}
-            </a>
+            </Link>
           </div>
         </div>
       </div>
