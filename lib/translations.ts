@@ -17,7 +17,7 @@ export const translations = {
     title: 'Ku Saabsan Nidaamka',
     description: 'IskaashigaBiyogalintaHargeysa.com waa barxad dijitaal ah oo u fududeynaysa guddiyada xaafadaha Hargeysa inay si hufan u xakameeyaan oo u maamulaan qaaraanka xaafadaha ee loogu talagalay mashruuca biyogelinta. Nidaamkani wuxuu fududeeyaa la socodka qaaraanka iyo wada-shaqeynta Wakaaladda Biyaha Hargeysa.',
     mission: 'Ujeedkeenna',
-    missionText: 'Inaan guddiyada xaafadaha Hargeysa siino nidaam cad oo habaysan oo lagu xakameeyo laguna maamulo qaaraanka xaafadaha, si loo xaqiijiyo hufnaan, isla-xisaabtan, iyo taageeridda horumarinta mashruuca biyaha ee xaafadaha Hargeysa.',
+    missionText: 'Inaan guddiyada xaafadaha Hargeysa siino nidaam cad oo habaysan oo lagu xakameeyo laguna maamulo qaaraanka xaafadaha, si loo xaqiijiyo hufnaan, isla-xisaabtan, iyo taageeridda horumarinta mashruuca biyogelinta.',
     goals: 'Sifooyinka Nidaamka',
     goalsList: [
       'Gelitaan ammaan ah oo loogu talagalay guddiyada xaafadaha',
