@@ -22,7 +22,7 @@ export const translations = {
     goalsList: [
       'Gelitaan ammaan ah oo loogu talagalay guddiyada xaafadaha',
       'Xakamaynta iyo maamulka qaaraanka shakhsiyeed ee xaafadaha',
-      '• Soo saaridda warbixinno iyo koobid lacageed oo ku saabsan qaaraanka xaafadaha',
+      'Soo saaridda warbixinno iyo koobid lacageed oo ku saabsan qaaraanka xaafadaha',
       'Wada-shaqeyn hufan oo lala yeesho Wakaaladda Biyaha Hargeysa',
     ],
     benefits: 'Faa’iidooyinka Guddiyada Xaafadaha',
